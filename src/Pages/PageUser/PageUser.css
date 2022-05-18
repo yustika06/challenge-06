@@ -1,0 +1,232 @@
+.head{
+    background-color: azure;
+    width: 100%;
+}
+.box{
+    background-color: #00008b;
+}
+.biru{
+    width: 100px;
+    height: 35px;
+    z-index: 1;
+    position: absolute;
+    margin-top: 1%;
+}
+.navigasi{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    width: 100%;
+}
+.btn{
+    background-color: #5CB85F;
+    color: white;
+}
+.hal-2{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+}
+.tulisan p{
+    width: 90%;
+}
+.gambar{
+    width: 48%;
+    margin-top: -5%;
+}
+.background{
+    width:47.5vw;
+}
+.sec2{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 5rem;
+}
+.kiri{
+    width: 50%;
+    height: 428px;
+}
+.kanan{
+    width: 50%;
+    margin-top: 2%;
+}
+.circle{
+    border-radius: 50%;
+}
+.circle2{
+    margin-left: 70%;
+    margin-top: -15%;
+}
+.circle3{
+    margin-left: 7%;
+    margin-top: -10%;
+}
+.circle4{
+    margin-left: 15%;
+}
+.happy{
+    width: 80%;;
+    border-radius: 47%;
+}
+#ceklis{
+    color: #0D28A6;
+    background: #CFD4ED;
+    border-radius: 50%;
+    padding: 20%;
+}
+.section-3{
+    width: 100%;
+}
+.section-3 h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.why-us {
+    font-size: 14px;
+    line-height: 36px;
+    margin-left: 2rem;
+    padding: 60px 0 0 0;
+}
+.card-text {
+    font-size: 14px;
+}
+  
+.why-title {
+    line-height: 36px;
+}
+.sewa {
+    background-color: #0d28a6;
+    color: white;
+    border-radius: 13px;
+}
+.card-sewa {
+    margin-bottom: 46px;
+}
+.logo{
+    width: 32px;
+    height: 32px;
+    left: 24px;
+    top: 24px;
+    margin-bottom: 5%;
+}
+.gambar1{
+    background-color: #F9CC00;
+    padding-left: 3%;
+}
+.sec5{
+    text-align: center;
+    font-style: normal;
+    background: #0D28A6;
+    border-radius: 13px;
+    color: white;
+    width: 100%;
+    height: 350px;
+    padding-top: 6%;
+    margin-top: 3rem;
+}
+#lorem{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.sec6{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 5rem;
+    margin-bottom: 10rem;
+}
+.sec6 h1{
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+}
+.question{
+    width: 50%;
+}
+.isi{
+    justify-content: end;
+    margin-left: 5%;
+    width: 60%;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.footer{
+    margin-top: 5rem;
+}
+.sosmed{
+    width: 15vw;
+    display: flex;
+    flex-direction: row;
+}
+.logo{
+    border-radius: 50%;
+}
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+.swiper-slide {
+    font-size: 18px;
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+.swipe{
+    width: 50rem;
+    height: 250px;
+    left: 410px;
+    top: 1652px;
+    background: #F1F3FF;
+    padding-left: 2%;
+    padding-right: 2%;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+}
+.review{
+  width: 60%;
+  padding-top: 5%;
+}
+.img{
+  padding-left: 10%;
+  padding-top: 10%;
+  width: 40%;
+}
+#paragraf{
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+}
+#h5{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+}
+.icon{
+    width: 15%;
+}
+@media (min-width: 1000px) {
+    .sewa p {
+    padding: 16px 248px 30px 238px;
+    }
+}
